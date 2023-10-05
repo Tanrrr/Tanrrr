@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ---
 I'm Tanner, A Computer Science student at the University of Alberta.
 
