@@ -1,4 +1,8 @@
 ### Hi there 👋
+---
+I'm Tanner, A Computer Science student at the University of Alberta.
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,python,c,discord,sqlite)](https://skillicons.dev)
+
 
 <!--
 **Tanrrr/Tanrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
